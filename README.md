@@ -1,1 +1,1 @@
-# freelancing-projrct
+# freelancing-project
